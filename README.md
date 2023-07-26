@@ -1,3 +1,3 @@
 # Analog-clock
 Using Html,Css and Javascript
-Link to see live demo - https://pankaj-2503.github.io/Analog-clock/
+Link to see live demo - https://sanjayypall.github.io/analog_clock/
